@@ -1,0 +1,4 @@
+repository "yes cabin@kentonzeme@cloud"
+  path "/"
+    br "/main"
+    co "/main"
